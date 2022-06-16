@@ -1,5 +1,0 @@
-print('white snow')
-print('red')
-print('wooribank')
-print('summer')
-print('-' * 100)
